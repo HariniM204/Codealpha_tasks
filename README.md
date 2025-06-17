@@ -5,4 +5,4 @@ Key Focus Areas
 ● I create a logo of macdonalds which a famous burger brand.
 ● Apply my own design strategies.
 
-Tools:Canva.
+Tool:Canva.
